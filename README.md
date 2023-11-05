@@ -6,7 +6,7 @@ A [TU](https://pl.pinterest.com/pin/967007351224894038/) możecie popatrzyć na 
 - My Chemical Romance :skull:
 - Bullet for my Valentine :rose:
 - blessthefall
-### Śpiewające po rosujsku
+### Śpiewające po rosyjsku
 1. Neversmile
 2. Neonate
 3. Оригами
