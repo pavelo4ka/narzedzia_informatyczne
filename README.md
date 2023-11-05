@@ -34,3 +34,4 @@ nie | wiem | co
 
 ![dog](animals/dog.jpg)
 ![zaebuszek](animals/zaebuszek.jpg)
+![cat](animals/cat.jpg)
