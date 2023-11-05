@@ -31,3 +31,5 @@ int main(void) {
 Jakaś | mała | tablica
 --- | --- | ---
 nie | wiem | co
+
+![dog](animals\dog.jpg)
